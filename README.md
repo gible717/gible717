@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am currently a student with a keen interest in software development. I'm enthusiastic about learning and growing within the tech community. My next big step is an internship, where I hope to gain valuable experience and contribute to exciting projects.</p>
+<p align="left">I am currently a student with a keen interest in software development - human resource management. I'm enthusiastic about learning and growing within the tech community. My next big step is an internship, where I hope to gain valuable experience and contribute to exciting projects.</p>
 
 ###
 
