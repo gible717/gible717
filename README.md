@@ -1,42 +1,45 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Noufah Abdullah</h1>
 
-###
+<p align="left">
+  CS student at UiTM Perlis · interested in the intersection of tech and people<br/>
+  I build things carefully, and always for someone.
+</p>
 
-<p align="left">Hello World! I'm an aspiring developer with a passion for coding and technology. I'm excited to dive into new projects and grow my skills. Currently gearing up for my internship next semester! 🚀</p>
+<p align="left">
+  <a href="https://inkfangs.com">inkfangs.com</a> ·
+  <a href="https://linkedin.com/in/noufahabdullah">LinkedIn</a>
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+### What I'm working on
 
-###
+- Graduating 2026 · Diploma in Computer Science, UiTM Perlis
+- Advocating for OKU student inclusion
+- Open for volunteering collabs
 
-<p align="left">I am currently a student with a keen interest in software development - human resource management. I'm enthusiastic about learning and growing within the tech community. My next big step is an internship, where I hope to gain valuable experience and contribute to exciting projects.</p>
+---
 
-###
+### Things I've shipped
 
-<h2 align="left">I code with</h2>
+- **[inkfangs.com](https://inkfangs.com)** — personal portfolio with editorial writing, 3D physics easter egg, CI/CD, and working contact form. Built from scratch with Next.js 16 + TypeScript.
+- **InventStor** — inventory management system
+- **PantryDahlia** — pantry tracking app
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+### I build with
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+<sub>→ Read what I think about at <a href="https://inkfangs.com/thoughts">inkfangs.com/thoughts</a></sub>
