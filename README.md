@@ -1,45 +1,73 @@
-<h1 align="left">Noufah Abdullah</h1>
+# noufah
 
-<p align="left">
-  CS student at UiTM Perlis · interested in the intersection of tech and people<br/>
-  I build things carefully, and always for someone.
-</p>
-
-<p align="left">
-  <a href="https://inkfangs.com">inkfangs.com</a> ·
-  <a href="https://linkedin.com/in/noufahabdullah">LinkedIn</a>
-</p>
+_a github readme, on blank page_
 
 ---
 
-### What I'm working on
+## now — september 2026
 
-- Graduating 2026 · Diploma in Computer Science, UiTM Perlis
-- Advocating for OKU student inclusion
-- Open for volunteering collabs
-
----
-
-### Things I've shipped
-
-- **[inkfangs.com](https://inkfangs.com)** — personal portfolio with editorial writing, 3D physics easter egg, CI/CD, and working contact form. Built from scratch with Next.js 16 + TypeScript.
-- **InventStor** — inventory management system
-- **PantryDahlia** — pantry tracking app
+- Diploma in Computer Science, UiTM Perlis · graduated 2026
+- Open to junior roles · accessibility, inclusion, human-centered tech
+- Writing at [inkfangs.com/thoughts](https://www.inkfangs.com/thoughts)
+- Based in Kangar, Perlis · Malaysia
 
 ---
 
-### I build with
+## a note
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+> I write code the way some people write letters —
+> _carefully_, and _always for someone_.
+
+More at [inkfangs.com](https://www.inkfangs.com)
 
 ---
 
-<sub>→ Read what I think about at <a href="https://inkfangs.com/thoughts">inkfangs.com/thoughts</a></sub>
+## stack
+
+**frontend** &nbsp;&nbsp; [![](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind)](https://skillicons.dev)
+
+**backend** &nbsp;&nbsp; [![](https://skillicons.dev/icons?i=nodejs,php,mysql)](https://skillicons.dev)
+
+**tools** &nbsp;&nbsp; [![](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+
+_also: React Native · Turso (libSQL)_
+
+---
+
+## builds
+
+**[inkfangs.com](https://www.inkfangs.com)** — personal site, thoughts, worklog.  
+_Next.js · TailwindCSS · Turso · deployed_  
+Can a portfolio be a conversation?
+
+**[InventStor](https://github.com/gible717/InventStor)** — inventory & storeroom management, shipped to Majlis Perbandaran Negeri Perlis.  
+_PHP · MySQL · ~18,000 lines · in production_  
+How do we serve people better?
+
+**[Leezerd](https://github.com/gible717/leezerd)** — a VS Code extension that plays a lizard sound every time you type 'l'.  
+_TypeScript · Manifest V3 · published_  
+A little chaos for your coding session.
+
+**PantryDahlia** &nbsp; · &nbsp; _in development_  
+How do we keep shelves stocked?
+
+---
+
+## recognition
+
+- **Anugerah Khas Mahasiswa OKU Harapan** — Bronze · UiTM · 2025
+- **The Duke of Edinburgh's International Award** — Bronze · Negeri Perlis · 2024
+- **Global IT Challenge for Youth with Disabilities** — Achievement Award, e-Tool Challenge · 2018
+
+---
+
+## elsewhere
+
+- Letters and thoughts — [inkfangs.com](https://www.inkfangs.com)
+- LinkedIn — [/in/noufahabdullah](https://linkedin.com/in/noufahabdullah)
+- KrackedDevs — [@inkfangs](https://krackeddevs.com/profile/inkfangs)
+- Instagram — [@faaichaz](https://instagram.com/faaichaz)
+
+---
+
+_this readme is on blank page._
