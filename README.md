@@ -30,7 +30,7 @@ More at [inkfangs.com](https://www.inkfangs.com)
 
 **tools** &nbsp;&nbsp; [![](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
-_also: React Native · Turso (libSQL)_
+_also: Turso (libSQL)_
 
 ---
 
