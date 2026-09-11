@@ -61,10 +61,6 @@ How do we keep shelves stocked?
 
 ---
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gible717&theme=onedark&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gible717&layout=compact&theme=dark&hide_border=true)
-
 ## elsewhere
 
 - Letters and thoughts — [inkfangs.com](https://www.inkfangs.com)
